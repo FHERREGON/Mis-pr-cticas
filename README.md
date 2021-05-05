@@ -1,2 +1,2 @@
-# Mis-pr-cticas
-Ejercicios prácticos desarrollados a lo largo del certificado de Ciencia de Datos
+# My practical exercises
+Here you can find the laboratories and practical exercises developed in the Data Science certificate.
